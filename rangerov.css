@@ -1,0 +1,57 @@
+*{
+    padding: 2px;
+    margin: 0px;
+    color: black;
+ }
+    body{
+
+    font-family: 'Montserrat';
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.left-topbar{
+    color: black;
+    justify-content: space-between;
+    height: 80px;
+    text-decoration: bold;
+    
+}
+.rr{
+    margin: 20px;
+}
+
+.grid-icon{
+Display : flex;
+justify-content: space-between;
+background-color: #d3d3d3;
+margin: 20px;
+}
+.veh{
+    margin-bottom:  50px;
+}
+.img{
+    display: inline-block;
+    margin-right: 371px;
+}
+.con{
+
+    margin-left: 150px;
+    margin-top: -58px;
+    
+}
+.root{
+    width: 100%;
+    height: 600px;
+    
+    padding: 20px;
+    
+}
+.exterior{
+    margin-left: 27px;
+    margin-top: -258px;
+}
+.button1{
+    margin-left: 17px;
+}
